@@ -1,3 +1,7 @@
+# git rm -r --cached .
+# git add .
+# git commit -m "Refresh .gitignore rules"
+
 ### Xcode ###
 # Ignore Swift5 folder
 *.xcodeproj
@@ -10,4 +14,5 @@
 
 # Folder
 SwiftySwiftDesigns
+
 
