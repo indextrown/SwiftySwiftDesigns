@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		DF6EA78A2D2D185F00E16854 /* SwiftySwiftDesigns */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftySwiftDesigns; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF6EA78D2D2D185F00E16854 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DF6EA7942D2D18C500E16854 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		DF6EA7812D2D185F00E16854 = {
 			isa = PBXGroup;
 			children = (
+				DF6EA7942D2D18C500E16854 /* .gitignore */,
 				DF6EA78C2D2D185F00E16854 /* SwiftySwiftDesigns */,
 				DF6EA78B2D2D185F00E16854 /* Products */,
 			);

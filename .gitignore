@@ -1,0 +1,13 @@
+### Xcode ###
+# Ignore Swift5 folder
+*.xcodeproj
+
+# 기타 무시할 항목들
+.DS_Store
+
+### Xcode Patch ###
+# End of https://www.toptal.com/developers/gitignore/api/xcode
+
+# Folder
+SwiftySwiftDesigns
+
